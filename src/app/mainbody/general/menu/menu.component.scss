@@ -1,0 +1,15 @@
+div {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 300px;
+  background-color: darkblue;
+  align-items: center;
+  justify-content: center;
+  P {
+    font-size: 1.2rem;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+}
